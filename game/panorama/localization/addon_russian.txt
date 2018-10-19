@@ -761,183 +761,183 @@
 	"relic_unique_antique_pouch_Description"																"You gain +3 all stats for every relic owned.\nDoes not count itself."
 	
 	"relic_unique_ofuda"																					"Ofuda"
-	"relic_unique_ofuda_Description"																		"Upon pickup, will purge up to 3 Event Curses. If less than 3 were removed, the remaining charges will be kept to remove future Curses."
+	"relic_unique_ofuda_Description"																		"При выборе данной реликвии очищает пользователя от 3 событийных проклятий, если после получения реликвии остались заряды, то они сохранятся, чтобы быть спользованными в будущем."
 	
-	"relic_unique_plasma_ball"																				"Plasma Ball"
-	"relic_unique_plasma_ball_Description"																	"The owner sends out an electric zaps that deals 225 damage every 2 seconds. The search radius for the zaps depends on the amount of distance the user has walked since the last zap."
+	"relic_unique_plasma_ball"																				"Шарик плазмы"
+	"relic_unique_plasma_ball_Description"																	"Пользователь реликвии посылает молнию, которыя наносит 225 урона каждые 2 секунды. Радиус поиска для молнии зависит от расстояния, пройденного пользователем с момента последнего использования."
 	
 	"relic_unique_silver_knife"																				"Silver Knife"
-	"relic_unique_silver_knife_Description"																	"Grants an additional +15 damage for every buff that grants you damage."
+	"relic_unique_silver_knife_Description"																	"Даёт 15 урона за каждое усиление физической атаки."
 	
 	"relic_unique_reinforced_bar"																			"Reinforced Bar"
-	"relic_unique_reinforced_bar_Description"																"Grants +2 armor for every buff that grants physical armor."
+	"relic_unique_reinforced_bar_Description"																"Даёт 2 защиты за каждое усиление физической брони."
 	
 	"relic_unique_drycicle"																					"Drycicle"
-	"relic_unique_drycicle_Description"																		"Every attack applies 1 Chill, slowing enemy movement speed and Freezing them if they gain 100 stacks of Chill."
+	"relic_unique_drycicle_Description"																		"Каждая атака накладывает 1 стак холода, при достижении 100 стаков цель будет заморожена."
 	
 	"relic_unique_nautical_scale"																			"Nautical Scale"
-	"relic_unique_nautical_scale_Description"																"Grants +8 armor, 20% magic resistance and 10% evasion while in water."
+	"relic_unique_nautical_scale_Description"																"Находясь в воде даёт 8 защиты, 20% магического споротивление и 10% уворотов."
 	
-	"relic_unique_mystical_coral"																			"Mystical Coral"
-	"relic_unique_mystical_coral_Description"																"Grants 25% spell amplification and 15% reduced mana costs while in water."
+	"relic_unique_mystical_coral"																			"Мистический корал"
+	"relic_unique_mystical_coral_Description"																"Находясь в воде даёт 25% усиление способностей и 15% уменьшение затраты маны."
 	
-	"relic_unique_prismarine_blade"																			"Prismarine Blade"
-	"relic_unique_prismarine_blade_Description"																"Grants 80 damage and 80 attack speed while in water"
+	"relic_unique_prismarine_blade"																			"Лезвие из призмарина"
+	"relic_unique_prismarine_blade_Description"																"Находясь в воде даёт 80 урона и скорости атаки."
 	
-	"relic_unique_slayers_skinner"																			"Slayer's Skinner"
-	"relic_unique_slayers_skinner_Description"																"Grants +10% bonus damage from all sources against all enemy types."
+	"relic_unique_slayers_skinner"																			"Кожа убийцы"
+	"relic_unique_slayers_skinner_Description"																"Даёт 10% бонус к урону от всех источников."
 	
-	"relic_unique_greased_wheel"																			"Greased Wheel"
-	"relic_unique_greased_wheel_Description"																"You no longer need to turn when casting abilities"
+	"relic_unique_greased_wheel"																			"Смазанное колесо"
+	"relic_unique_greased_wheel_Description"																"Вам больше не нужно поворачиваться, когда используете способности"
 	
 	// GENERIC
-	"relic_generic_angelic_water"																			"Angelic Water"
-	"relic_generic_angelic_water_Description"																"+10 к регенерации маны."
+	"relic_generic_angelic_water"																			"Ангельская вода"
+	"relic_generic_angelic_water_Description"																"Даёт 10 к регенерации маны."
 	
-	"relic_generic_banshee_tear"																			"Banshee Tear"
-	"relic_generic_banshee_tear_Description"																"+500 максимальной маны и +1 к регенерации маны."
+	"relic_generic_banshee_tear"																			"Слеза банши"
+	"relic_generic_banshee_tear_Description"																"Даёт 500 максимальной маны и 1 к регенерации маны."
 	
-	"relic_generic_beast_fang"																				"Beast Fang"
-	"relic_generic_beast_fang_Description"																	"+40 к урону и скорости атаки."
+	"relic_generic_beast_fang"																				"Клык зверя"
+	"relic_generic_beast_fang_Description"																	"Даёт 40 к урону и скорости атаки."
 	
-	"relic_generic_blood_crystal"																			"Blood Crystal"
-	"relic_generic_blood_crystal_Description"																"+10 регенерации здоровья."
+	"relic_generic_blood_crystal"																			"Кровавый кристалл"
+	"relic_generic_blood_crystal_Description"																"Даёт 10 регенерации здоровья."
 	
-	"relic_generic_dead_mans_blood"																			"Dead Mans Blood"
-	"relic_generic_dead_mans_blood_Description"																"+400 к максимальному здоровью."
+	"relic_generic_dead_mans_blood"																			"Окровавленная человеческая голова"
+	"relic_generic_dead_mans_blood_Description"																"Даёт 400 к максимальному здоровью."
 	
-	"relic_generic_giants_toenail"																			"Giant's Toenail"
-	"relic_generic_giants_toenail_Description"																"+25% к сопротивлению эффектам."
+	"relic_generic_giants_toenail"																			"Гигантский ноготь"
+	"relic_generic_giants_toenail_Description"																"Даёт 25% к сопротивлению эффектам."
 	
-	"relic_generic_hammerhead"																				"Hammerhead"
-	"relic_generic_hammerhead_Description"																	"+80 урона."
+	"relic_generic_hammerhead"																				"Огловье молота"
+	"relic_generic_hammerhead_Description"																	"Даёт 80 урона."
 	
-	"relic_generic_pure_heart"																				"Pure Heart"
-	"relic_generic_pure_heart_Description"																	"+10 ко всем атрибутам."
+	"relic_generic_pure_heart"																				"Чистое сердце"
+	"relic_generic_pure_heart_Description"																	"Даёт 10 ко всем атрибутам."
 	
-	"relic_generic_seraphims_feather"																		"Seraphim's Heart"
-	"relic_generic_seraphims_feather_Description"															"+60 к скорости передвижения."
+	"relic_generic_seraphims_feather"																		"Перо серафима"
+	"relic_generic_seraphims_feather_Description"															"Даёт 60 к скорости передвижения."
 	
-	"relic_generic_silver_arrow"																			"Silver Arrow"
-	"relic_generic_silver_arrow_Description"																"+100 к дальности атаки и +35 к урону."
+	"relic_generic_silver_arrow"																			"Серебрянная стрела"
+	"relic_generic_silver_arrow_Description"																"Даёт 100 к дальности атаки и 35 к урону."
 	
-	"relic_generic_time_shard"																				"Time Shard"
-	"relic_generic_time_shard_Description"																	"+10% к снижению перезарядки способностей."
+	"relic_generic_time_shard"																				"Осколок времени"
+	"relic_generic_time_shard_Description"																	"Даёт 10% к снижению перезарядки способностей."
 	
-	"relic_generic_unicorn_horn"																			"Unicorn Horn"
-	"relic_generic_unicorn_horn_Description"																"+20 к скорости передвижения и +25% к урону со способностей."
+	"relic_generic_unicorn_horn"																			"Рог единорога"
+	"relic_generic_unicorn_horn_Description"																"Даёт 20 к скорости передвижения и 25% к урону со способностей."
 	
-	"relic_generic_breath_of_life"																			"Breath of Life"
-	"relic_generic_breath_of_life_Description"																"+200 к максимальному здоровью и мане, +3 к регенерации здоровья и маны."
+	"relic_generic_breath_of_life"																			"Дыхание жизни"
+	"relic_generic_breath_of_life_Description"																"Даёт 200 к максимальному здоровью, мане и 3 к регенерации здоровья, маны."
 	
-	"relic_generic_horn_of_bannermen"																		"Horn of Bannermen"
-	"relic_generic_horn_of_bannermen_Description"															"+25 к ловкости."
+	"relic_generic_horn_of_bannermen"																		"Рог Баннермена"
+	"relic_generic_horn_of_bannermen_Description"															"Даёт 25 к ловкости."
 
-	"relic_generic_helm_of_justice"																			"Helm of Justice"
-	"relic_generic_helm_of_justice_Description"																"+25 к силе."
+	"relic_generic_helm_of_justice"																			"Щлем справедливости"
+	"relic_generic_helm_of_justice_Description"																"Даёт 25 к силе."
 	
-	"relic_generic_crown_of_power"																			"Crown of Power"
-	"relic_generic_crown_of_power_Description"																"+25 к интеллекту."
+	"relic_generic_crown_of_power"																			"Корона силы"
+	"relic_generic_crown_of_power_Description"																"Даёт 25 к интеллекту."
 	
-	"relic_generic_haste_stone"																				"Haste Stone"
-	"relic_generic_haste_stone_Description"																	"+80 к скорости атаки."
+	"relic_generic_haste_stone"																				"Камень скорости"
+	"relic_generic_haste_stone_Description"																	"Даёт 80 к скорости атаки."
 	
 	"relic_generic_tanned_hide"																				"Tanned Hide"
-	"relic_generic_tanned_hide_Description"																	"+5 к броне."
+	"relic_generic_tanned_hide_Description"																	"Даёт 5 к броне."
 	
 	"relic_generic_arcane_threads"																			"Arcane Threads"
-	"relic_generic_arcane_threads_Description"																"+15% к сопротивлении магии."
+	"relic_generic_arcane_threads_Description"																"Даёт 15% к сопротивлении магии."
 	
-	"relic_generic_fog_lace"																				"Fog Lace"
-	"relic_generic_fog_lace_Description"																	"+15% к уклонению."
+	"relic_generic_fog_lace"																				"Туманное кружево"
+	"relic_generic_fog_lace_Description"																	"Даёт 15% к уклонению."
 	
-	"relic_generic_draculine_tooth"																			"Draculine Tooth"
+	"relic_generic_draculine_tooth"																			"Зуб дракулины"
 	"relic_generic_draculine_tooth_Description"																"Каждая атака восстанавливает 20 здоровья."
 	
-	"relic_generic_worn_spear"																				"Worn Spear"
-	"relic_generic_worn_spear_Description"																	"+100 к дальности атаки, работает на героях ближнего боя."
+	"relic_generic_worn_spear"																				"Изношенное копьё"
+	"relic_generic_worn_spear_Description"																	"Даёт 100 к дальности атаки, работает на героях ближнего боя."
 	
-	"relic_generic_old_sickle"																				"Old Sickle"
+	"relic_generic_old_sickle"																				"Старый серп"
 	"relic_generic_old_sickle_Description"																	"Каждая атака наносит 25% урона всем противникам в конусе перед вашим героем.\nНачальный радиус конуса - 150, конечный - 300, длина - 500."
 	
-	"relic_generic_broken_mirror"																			"Broken Mirror"
-	"relic_generic_broken_mirror_Description"																"+150 к дальности применения способностей."
+	"relic_generic_broken_mirror"																			"Разбитое зеркало"
+	"relic_generic_broken_mirror_Description"																"Даёт 150 к дальности применения способностей."
 	
-	"relic_generic_champions_spearhead"																		"Champion's Spearhead"
-	"relic_generic_champions_spearhead_Description"															"+1000 к скорости снарядов атак."
+	"relic_generic_champions_spearhead"																		"Титул чемпиона"
+	"relic_generic_champions_spearhead_Description"															"Даёт 1000 к скорости снарядов атак."
 	
-	"relic_generic_katana"																					"Katana"
-	"relic_generic_katana_Description"																		"Вы получаете 20% шанс нанести 150% критического урона."
+	"relic_generic_katana"																					"Катана"
+	"relic_generic_katana_Description"																		"Даёт 20% шанс нанести 150% критического урона."
 	
-	"relic_generic_stick"																					"A Stick"
-	"relic_generic_stick_Description"																		"+1 к урону."
+	"relic_generic_stick"																					"Палочка"
+	"relic_generic_stick_Description"																		"Даёт 1 к урону."
 	
-	"relic_generic_mystic_gauntlet"																			"Mystic Gauntlet"
-	"relic_generic_mystic_gauntlet_Description"																"+3 к броне и +9% к сопротивлению магии."
+	"relic_generic_mystic_gauntlet"																			"Мистическая рукавица"
+	"relic_generic_mystic_gauntlet_Description"																"Даёт 3 к броне и 9% к сопротивлению магии."
 	
-	"relic_generic_power_glove"																				"Power Glove"
-	"relic_generic_power_glove_Description"																	"+3 к броне и +20 к урону."
+	"relic_generic_power_glove"																				"Перчатки силы"
+	"relic_generic_power_glove_Description"																	"Даёт 3 к броне и 20 к урону."
 	
-	"relic_generic_dragon_scales"																			"Dragon Scales"
-	"relic_generic_dragon_scales_Description"																"+15% к урону от способностей и +40 к урону с атак."
+	"relic_generic_dragon_scales"																			"Драконьи весы"
+	"relic_generic_dragon_scales_Description"																"Даёт 15% к урону от способностей и 40 к урону."
 	
-	"relic_generic_ifrit_tear"																				"Ifrit Tear"
-	"relic_generic_ifrit_tear_Description"																	"+15% к урону от способностей и +4 к регенерации здоровья."
+	"relic_generic_ifrit_tear"																				"Слеза ифрита"
+	"relic_generic_ifrit_tear_Description"																	"Даёт 15% к урону от способностей и 4 к регенерации здоровья."
 	
 	"relic_generic_scythegeist"																				"Scythegeist"
-	"relic_generic_scythegeist_Description"																	"+35 к урону и +5% к снижению перезарядки способностей."
+	"relic_generic_scythegeist_Description"																	"Даёт 35 к урону и 5% к снижению перезарядки способностей."
 	
 	"relic_generic_barbedbell"																				"Barbedbell"
-	"relic_generic_barbedbell_Description"																	"+10 к силе. Когда вы получаете урон, вы возвращаете 35 физического урона."
+	"relic_generic_barbedbell_Description"																	"Даёт 10 к силе. Когда вы получаете урон, вы возвращаете 35 физического урона."
 	
 	"relic_generic_stone_fist"																				"Stone Fist"
-	"relic_generic_stone_fist_Description"																	"+20% к генерации угрозы."
+	"relic_generic_stone_fist_Description"																	"Даёт 20% к генерации угрозы."
 	
-	"relic_generic_spinning_top"																			"Spinning Top"
-	"relic_generic_spinning_top_Description"																"Снижает базовое время атаки на 0.1."
+	"relic_generic_spinning_top"																			"Волчонок"
+	"relic_generic_spinning_top_Description"																"Снижает базовое время атаки на 0.1"
 	
-	"relic_generic_tiger_blood"																				"Tiger Blood"
-	"relic_generic_tiger_blood_Description"																	"+20% к увеличению лечения."
+	"relic_generic_tiger_blood"																				"Кровь тигра"
+	"relic_generic_tiger_blood_Description"																	"Даёт 20% к увеличению лечения."
 	
-	"relic_generic_heavy_rock"																				"Heavy Rock"
-	"relic_generic_heavy_rock_Description"																	"Grants 15% status amplification"
+	"relic_generic_heavy_rock"																				"Тяжёлый камень"
+	"relic_generic_heavy_rock_Description"																	"Даёт 15% усиление статуса"
 	
-	"relic_generic_amplifier"																				"Amplifier"
-	"relic_generic_amplifier_Description"																	"Grants 10% status amplifcation and 20% spell amplification"
+	"relic_generic_amplifier"																				"Усиление"
+	"relic_generic_amplifier_Description"																	"Даёт 10% усиление статуса и 20% усиление умений"
 	
-	"relic_generic_rich_essence"																			"Rich Essence"
-	"relic_generic_rich_essence_Description"																"Grants you 10% heal amplification and 10% spell amplification."
+	"relic_generic_rich_essence"																			"Богатая эссенция"
+	"relic_generic_rich_essence_Description"																"Даёт 10% усиление способностей и исцеления."
 	
-	"relic_generic_ethereal_gown"																			"Ethereal Gown"
-	"relic_generic_ethereal_gown_Description"																"Grants you 8% evasion, 8% magic resistance and 2 armor."
+	"relic_generic_ethereal_gown"																			"Эфирная мантия"
+	"relic_generic_ethereal_gown_Description"																"Даёт 8% уворотов, магического сопротивления и 2 защиты."
 	
-	"relic_generic_ectoplasm"																				"Ectoplasm"
-	"relic_generic_ectoplasm_Description"																	"Grants 6 health regeneration and 6 mana regeneration."
+	"relic_generic_ectoplasm"																				"Эктоплазма"
+	"relic_generic_ectoplasm_Description"																	"Даёт 6 регенерации маны и здоровья."
 	
-	"relic_generic_bowl_of_chi"																				"Bowl of Chi"
-	"relic_generic_bowl_of_chi_Description"																	"Grants 15% status resistance and 15% status amplification."
+	"relic_generic_bowl_of_chi"																				"Чаша Чи"
+	"relic_generic_bowl_of_chi_Description"																	"Даёт 15% сопротивление эффектам и 15% усиление эффектов."
 	
-	"relic_generic_stone_calendar"																			"Stone Calendar"
-	"relic_generic_stone_calendar_Description"																"Grants 4 armor and 15% status resistance."
+	"relic_generic_stone_calendar"																			"Каменный календарь"
+	"relic_generic_stone_calendar_Description"																"Даёт 4 зашиты и 15% сопротивление эффектам."
 	
-	"relic_generic_dull_razor"																				"Dull Razor"
-	"relic_generic_dull_razor_Description"																	"Grants 25 attack damage and 15 agility."
+	"relic_generic_dull_razor"																				"Тупая бритва"
+	"relic_generic_dull_razor_Description"																	"Даёт 25 урона и 15 ловкости."
 	
-	"relic_generic_torn_muscle"																				"Torn Muscle"
-	"relic_generic_torn_muscle_Description"																	"Grants 200 health and 15 strength."
+	"relic_generic_torn_muscle"																				"Порванная мышца"
+	"relic_generic_torn_muscle_Description"																	"Даёт 200 здоровья и 15 силы."
 	
-	"relic_generic_pickled_brain"																			"Pickled Brain"
-	"relic_generic_pickled_brain_Description"																"Grants 200 mana and 15 intelligence."
+	"relic_generic_pickled_brain"																			"Маринованных мозг"
+	"relic_generic_pickled_brain_Description"																"Даёт 200 маны и 15 интеллекта."
 	
-	"relic_generic_drop_of_all"																				"Drop of All"
-	"relic_generic_drop_of_all_Description"																	"Grants 5 all stats, 10 movement speed, attack speed and attack damage, 100 health and mana and 1 health and mana regeneration."
+	"relic_generic_drop_of_all"																				"Всего по чуть-чуть"
+	"relic_generic_drop_of_all_Description"																	"Даёт 5 ко всем характеристикам, 10 скорости перемещения, скорости атаки и урона, 100 здоровья и маны и 1 регенерации здоровья и маны в секунду."
 	
-	"relic_generic_scrap_of_paper"																			"Scrap of Paper"
-	"relic_generic_scrap_of_paper_Description"																"Grants 3 armor and 8% cooldown reduction."
+	"relic_generic_scrap_of_paper"																			"Клочок бумаги"
+	"relic_generic_scrap_of_paper_Description"																"Даёт 3 защиты и 8% сокращения перезарядки умений."
 	
-	"relic_generic_dry_quill"																				"Dry Quill"
-	"relic_generic_dry_quill_Description"																	"Grants 15 attack speed, 15 attack damage and 5% cooldown reduction."
+	"relic_generic_dry_quill"																				"Сухре перо"
+	"relic_generic_dry_quill_Description"																	"Даёт 15 скорости атаки, 15 урона и 5% сокращения перезарядки умений."
 	
-	"relic_generic_leather_buckler"																			"Leather Buckler"
-	"relic_generic_leather_buckler_Description"																"Grants 60% chance to block 20 damage. Damage blocks all forms of damage after reductions."
+	"relic_generic_leather_buckler"																			"Кожанный щит"
+	"relic_generic_leather_buckler_Description"																"Даёт 60% шанс заблокировать 20 урона. Блокирует все типы урона после осальных сокращений."
 }
